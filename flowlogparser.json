@@ -1,0 +1,16 @@
+{
+    "common": {
+        "subscriptionname": "<nameofsubscription>"
+    },
+    "flowlogs": [
+        {
+            "COMMENT": "The Storageaccount blob path is case sensitive.",
+            "subscriptionid": "<subscriptionid>",
+            "nsgresourcegroupname": "<namofresourcegroupfornsg>",
+            "nsgname": "<nameofnsg>",
+            "storageaccountname": "<nameofstorageaccount>",
+            "storageaccountresourcegroup": "<nameofresourcegroupofstorageaccount>",
+            "macaddress": "<macaddressfromfolderstructure>"
+        }
+    ]
+}
