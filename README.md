@@ -1,2 +1,2 @@
 # FlowLogParser
-NSG FlowLogsParser
+Azure NSG FlowLogparser
